@@ -1,0 +1,7 @@
+Largest Value in a Column
+
+SELECT *
+FROM Employees
+ORDER BY hireDate ASC, salary DESC;
+
+In the ORDERBY clause, first we sort by hireDate in ascending order and then by salary in descending order, as the sorting is from first to last as specified in the ORDERBY clause.
