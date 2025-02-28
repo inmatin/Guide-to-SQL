@@ -1,3 +1,5 @@
+Select All Rows from a Table
+
 SELECT *
 FROM Employees;
 
