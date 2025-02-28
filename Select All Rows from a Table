@@ -1,1 +1,4 @@
-SELECT * FROM Employees;
+SELECT *
+FROM Employees;
+
+SELECT is the keyword to retrieve rows from a table. * is used to select all columns from a table.
