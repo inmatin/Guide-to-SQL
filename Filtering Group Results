@@ -1,0 +1,7 @@
+Quantity of Sales for All Products
+
+SELECT manager, SUM(commission) AS TotalCommission
+FROM Employees 
+GROUP BY manager;
+
+We group rows by productID in order to get the SUM(Quantity) which gives us the total sales by product.
