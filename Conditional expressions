@@ -1,0 +1,5 @@
+Change a String to Uppercase
+
+SELECT UPPER(name) FROM employees;
+
+The UPPER() function is used to convert a string to uppercase.
